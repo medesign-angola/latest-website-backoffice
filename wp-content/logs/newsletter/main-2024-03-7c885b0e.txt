@@ -1,0 +1,1 @@
+26-03-2024 16:56:05 - ERROR - 7.8.8 - 46,2 MB/512 MB - isaquias-sebastiao > cURL error 28: Operation timed out after 5003 milliseconds with 2566 out of 31734 bytes received (http_request_failed) - 
